@@ -1,4 +1,4 @@
-#A Comprehensive Report on Pewlett Hackard Employees
+# A Comprehensive Report on Pewlett Hackard Employees
 ## PostgreSQL
 The 6 .csv files were analyized to develop a outline of the fields and their relationships. A PostgreSQL schema was developed to correctly import the spreadsheets, respecting the relationships and field types. The primary/foriegn key relationships were established at this time.
 DBeaver was used to create a EBD from the SQL database.
